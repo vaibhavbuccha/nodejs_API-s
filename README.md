@@ -1,5 +1,5 @@
 ## step 1 :
-npm init
+'''npm init'''
 -----------------
 ## step 2 :
 install required packages 
